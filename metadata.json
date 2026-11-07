@@ -1,0 +1,6 @@
+{
+  "name": "Neon Dash",
+  "description": "High-octane 3D endless rooftop runner in a neon sunset metropolis. Dodge obstacles, collect energy orbs, trigger power-ups, and outrun the patrol drone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
